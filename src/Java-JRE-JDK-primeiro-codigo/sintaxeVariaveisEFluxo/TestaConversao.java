@@ -4,7 +4,7 @@ package sintaxeVariaveisEFluxo;
  *
  * @author gabri
  */
-public class TesteConversao {
+public class TestaConversao {
     public static void main(String[] args) {
         System.out.println("Vamos converter ");
         
@@ -16,7 +16,7 @@ public class TesteConversao {
         
         System.out.println("Convertando " + valor);
         
-        // resultaod
+        // resultado 0.30000000000000004
         double val1 = 0.1;
         double val2 = 0.2;
         
