@@ -1,4 +1,4 @@
-package sintaxeBasica;
+package Java_JRE_JDK.sintaxeBasica;
 
 public class SintaxeBasica {
 
@@ -8,7 +8,7 @@ public class SintaxeBasica {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("Ol· mundo!");
+        System.out.println("Ol√° mundo!");
     }
     
 }

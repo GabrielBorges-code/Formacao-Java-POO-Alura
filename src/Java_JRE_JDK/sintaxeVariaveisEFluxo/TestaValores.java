@@ -1,5 +1,5 @@
 
-package sintaxeVariaveisEFluxo;
+package Java_JRE_JDK.sintaxeVariaveisEFluxo;
 
 /**
  *

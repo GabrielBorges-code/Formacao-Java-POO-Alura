@@ -1,4 +1,4 @@
-package sintaxeVariaveisEFluxo;
+package Java_JRE_JDK.sintaxeVariaveisEFluxo;
 
 /**
  *
@@ -11,7 +11,7 @@ public class TestaConversao {
         double salario = 1125.50;
         System.out.println("salario " + salario);
         
-        // convertendo o val0or para inteiro, essa função é chamada de casting 
+        // convertendo o val0or para inteiro, essa funï¿½ï¿½o ï¿½ chamada de casting 
         int valor = (int)salario;
         
         System.out.println("Convertando " + valor);

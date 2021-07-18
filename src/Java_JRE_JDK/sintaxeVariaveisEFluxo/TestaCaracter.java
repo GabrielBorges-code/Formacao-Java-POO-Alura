@@ -1,4 +1,4 @@
-package sintaxeVariaveisEFluxo;
+package Java_JRE_JDK.sintaxeVariaveisEFluxo;
 
 /**
  *
@@ -8,7 +8,7 @@ public class TestaCaracter {
     public static void main (String [] args){
         System.out.println("Caracter");
         
-        //Executa Apenas um único Item, se usa aspas simples
+        //Executa Apenas um ï¿½nico Item, se usa aspas simples
         char letra = 'A';
         
         System.out.println(letra);        
@@ -21,11 +21,11 @@ public class TestaCaracter {
         
         System.out.println(letra3);
         
-        String frase = "Olá pessoas!";
+        String frase = "Olï¿½ pessoas!";
         
         System.out.println(frase);
         
-        String frase2 = ", vocês estão bem?";
+        String frase2 = ", vocï¿½s estï¿½o bem?";
         
         System.out.println(frase + frase2);
     }

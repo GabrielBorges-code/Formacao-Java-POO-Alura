@@ -3,22 +3,25 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package sintaxeVariaveisEFluxo;
+package Java_JRE_JDK.sintaxeVariaveisEFluxo;
 
 /**
  *
  * @author gabri
  */
-public class TestaLaco {
+public class TestaEscopo {
+
     public static void main(String[] args) {
-        int contador = 0;
-        while(contador < 10){
-            System.out.println(contador++);
+ 
+        int quantidadePessoas = 3;
+        boolean acompanhado;     
+
+        if (quantidadePessoas > 1) {
+            acompanhado = true;
+        } else {
+            acompanhado = false;
+
         }
-        
-        //Aqui vai imprimir o 10
-        System.out.println(contador);
-               
+
     }
-           
 }

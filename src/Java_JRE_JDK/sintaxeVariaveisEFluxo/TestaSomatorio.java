@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package sintaxeVariaveisEFluxo;
+package Java_JRE_JDK.sintaxeVariaveisEFluxo;
 
 /**
  *
@@ -12,7 +12,7 @@ package sintaxeVariaveisEFluxo;
 public class TestaSomatorio {
     
     public static void main(String[] args) {
-        // Progressão aritimetica
+        // Progressï¿½o aritimetica
         int contador = 0;
         int total = 0;
         

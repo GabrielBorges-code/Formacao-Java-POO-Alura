@@ -1,4 +1,4 @@
-package bytebank;
+package Java_POO_Introducao.bytebank;
 
 public class CriaConta {
 
@@ -18,6 +18,16 @@ public class CriaConta {
         System.out.println("Segunda conta " + conta2.agencia);
 
         System.out.println(conta1.agencia);
+        System.out.println(conta2.agencia);
+        System.out.println(conta3.agencia);
+
+        if(conta1 == conta2){
+            System.out.println("São iguais, primeira conta: " + conta1 + ". Segunda coonta: " + conta2);
+        }else {
+            System.out.println("Contas diferentesm, primeira conta: " + conta1 + ". Segunda coonta: " + conta2);
+        }
+
+
 
 
 

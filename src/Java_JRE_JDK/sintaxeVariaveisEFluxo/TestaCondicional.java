@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package sintaxeVariaveisEFluxo;
+package Java_JRE_JDK.sintaxeVariaveisEFluxo;
 
 /**
  *
@@ -22,9 +22,9 @@ public class TestaCondicional {
         }
         
         if (quantidade > 94){
-            System.out.println("Não pode entrar");
+            System.out.println("Nï¿½o pode entrar");
         }else if (quantidade > 50){
-            System.out.println("Lotação Média");
+            System.out.println("Lotaï¿½ï¿½o Mï¿½dia");
         }else{
             System.out.println("Pode entrar");
         }

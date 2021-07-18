@@ -1,4 +1,4 @@
-package sintaxeVariaveisEFluxo;
+package Java_JRE_JDK.sintaxeVariaveisEFluxo;
 
 /**
  *
@@ -11,11 +11,11 @@ public class Flutuante {
         
         // printf(salario);
         
-        System.out.println("Meu salário  " + salario);
+        System.out.println("Meu salï¿½rio  " + salario);
         
         double divisao = 16541 / 15;
         
-        System.out.println("divisão = " + divisao);
+        System.out.println("divisï¿½o = " + divisao);
         
         double outraDivisao = 5 / 2;
         
