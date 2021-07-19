@@ -1,4 +1,4 @@
-package Java_POO_Introducao.bytebank;
+package Java_POO_Introducao.bytebankComposto;
 
 public class Conta {
 
@@ -6,7 +6,8 @@ public class Conta {
     double saldo;
     int agencia = 42;
     int numero;
-    String titular;
+    //Referencia ao objeto Cliente (Associando Conta ao cliente)
+    Cliente titular;
 
     //metodo é uma ação, parecida com uma function. métodos voids não retorna nenhum valor
     public void deposita(double valor){
