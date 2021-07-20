@@ -3,7 +3,7 @@ package Java_POO_Introducao.bytebankComposto;
 public class Conta {
 
     //Variaveis na classe pode ser entendida como atributos
-    double saldo;
+    private double saldo;
     int agencia = 42;
     int numero;
     //Referencia ao objeto Cliente (Associando Conta ao cliente)
@@ -34,4 +34,9 @@ public class Conta {
         return false;
 
    }
+
+   public double getSaldo(){
+        return this.saldo;
+   }
+
 }

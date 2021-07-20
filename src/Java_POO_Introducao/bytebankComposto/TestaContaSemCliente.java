@@ -5,9 +5,10 @@ public class TestaContaSemCliente {
     public static void main(String[] args) {
         Conta contaDaMarcela = new Conta();
 
-        contaDaMarcela.saldo += 15;
+        //saldo não está sendo mais acessível pois está privado
+        //contaDaMarcela.saldo += 15;
 
-        System.out.println("Saldo R$ " + contaDaMarcela.saldo);
+        //System.out.println("Saldo R$ " + contaDaMarcela.saldo);
 
         contaDaMarcela.titular = new Cliente();
 
