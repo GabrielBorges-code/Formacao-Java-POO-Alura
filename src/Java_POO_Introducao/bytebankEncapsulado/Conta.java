@@ -6,7 +6,7 @@ public class Conta {
     private double saldo;
     private int agencia = 42;
     private int numero;
-    //Referencia ao objeto Cliente (Associando Conta ao cliente)
+    //Referencia ao objeto Cliente (Associando Conta ao cliente). Isso se chama composição
     private Cliente titular;
     //Static é um atributo da classe e não de um objeto criado
     private static int totalDeObj;
