@@ -17,5 +17,10 @@ public class TesteGerente {
         boolean autenticacao = g1.autentica(640);
 
         System.out.println("Senha " + autenticacao);
+
+        //funciona pois o atributo é filho da classe funcionário
+        //g1.salario = 300;
+
+        System.out.println( "bonificação " + g1.getBonificacao());
     }
 }

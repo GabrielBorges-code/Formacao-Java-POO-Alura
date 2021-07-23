@@ -23,8 +23,10 @@ public class Gerente extends Funcionario {
     }
 
     //posso criar um método mesmo não existindo  o atributo
-    /*public double getBonificacao(){
-        return this.salario;
-    }*/
+    public double getBonificacao(){
+        //o super está referenciando a classe mãe, no caso a a classe funcionário
+        //Através do método super é possível acessar os metodos e atributos da classe mãe
+        return (super.getBonificacao()) + super.getSalario();
+    }
 
 }

@@ -4,11 +4,14 @@ public class Funcionario {
 
     private String nome;
     private String cpf;
+    //protected, público para os classes filhos
+    //protected double salario;
     private double salario;
+
 
     //posso criar um método mesmo não existindo  o atributo
     public double getBonificacao(){
-        return this.salario * 0.1;
+        return this.salario * 0.05;
     }
 
     public String getNome() {

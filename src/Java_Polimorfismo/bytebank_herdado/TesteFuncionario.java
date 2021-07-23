@@ -12,5 +12,10 @@ public class TesteFuncionario {
         System.out.println("Nome " + gabriel.getNome());
         System.out.println("Salario R$ " + gabriel.getSalario());
 
+        // não funciona, atributo está protegido
+        //gabriel.salrio = 30;
+
+        System.out.println("Bonificação "  + gabriel.getBonificacao());
+
     }
 }
