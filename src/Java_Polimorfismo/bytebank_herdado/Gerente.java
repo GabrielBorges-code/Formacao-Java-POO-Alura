@@ -26,6 +26,7 @@ public class Gerente extends Funcionario {
     public double getBonificacao(){
         //o super está referenciando a classe mãe, no caso a a classe funcionário
         //Através do método super é possível acessar os metodos e atributos da classe mãe
+        System.out.println("Bonificação do gerente");
         return (super.getBonificacao()) + super.getSalario();
     }
 

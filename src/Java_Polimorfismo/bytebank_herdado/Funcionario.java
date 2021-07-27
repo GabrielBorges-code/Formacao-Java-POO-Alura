@@ -11,6 +11,7 @@ public class Funcionario {
 
     //posso criar um método mesmo não existindo  o atributo
     public double getBonificacao(){
+        //System.out.println("Bonificação do Funcionario");
         return this.salario * 0.05;
     }
 
