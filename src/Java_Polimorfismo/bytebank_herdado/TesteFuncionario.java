@@ -3,8 +3,10 @@ package Java_Polimorfismo.bytebank_herdado;
 public class TesteFuncionario {
 
     public static void main(String[] args) {
-        Funcionario gabriel = new Funcionario();
+        //Não consigo mais criar um funcionário pois agora ele é um método abstrato
+        //Funcionario gabriel = new Funcionario();
 
+        Gerente gabriel = new Gerente();
         gabriel.setCpf("555.555.55");
         gabriel.setNome("Gabriel B.");
         gabriel.setSalario(1125);

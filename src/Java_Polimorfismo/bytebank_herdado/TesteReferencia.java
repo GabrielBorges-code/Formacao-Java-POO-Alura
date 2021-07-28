@@ -16,7 +16,7 @@ public class TesteReferencia {
 
         System.out.println("Controle Bonificaçao G " + controle.getSoma());
 
-        Funcionario f1 = new Funcionario();
+        Funcionario f1 = new Gerente();
         f1.setNome("Alice B");
         f1.setCpf("222.222.222.22");
         f1.setSalario(2000);

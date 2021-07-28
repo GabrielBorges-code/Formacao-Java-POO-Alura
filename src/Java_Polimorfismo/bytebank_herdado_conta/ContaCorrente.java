@@ -8,4 +8,10 @@ public class ContaCorrente extends Conta {
 
     }
 
+    //Sobreescrevendo o metodo saca da classe Conta, o @Override é uma anotação e garante que estou sobreescrevendo um método e não criando um novo
+    @Override
+    public double saca(double valor) {
+        double valorSacar = valor + 0.2;
+        return super.saca(valorSacar);
+    }
 }
