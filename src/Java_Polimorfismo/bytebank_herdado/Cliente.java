@@ -1,17 +1,12 @@
 package Java_Polimorfismo.bytebank_herdado;
 
-public class Gerente extends Funcionario implements Autenticavel{
+//implements serve para implementar uma interface
+public class Cliente implements Autenticavel {
 
+    //private int senha;
     private AutenticacaoUtil autenticado;
 
-    //posso criar um método mesmo não existindo  o atributo na classe filho
-    public double getBonificacao(){
-
-        System.out.println("Bonificação do gerente");
-        return  super.getSalario();
-    }
-
-    public Gerente() {
+    public Cliente() {
         this.autenticado = new AutenticacaoUtil();
     }
 
@@ -26,4 +21,5 @@ public class Gerente extends Funcionario implements Autenticavel{
         boolean autenticou = this.autenticado.autentica(senha);
         return autenticou;
     }
+
 }

@@ -4,6 +4,9 @@ public class TesteGerente {
 
     public static void main(String[] args) {
 
+        //Utilizando a interface para criar um objeto generíco
+        Autenticavel referencia = new Cliente();
+
         Gerente g1 = new Gerente();
 
         g1.setNome("Angela S.");
@@ -15,7 +18,6 @@ public class TesteGerente {
         g1.setSenha(654);
 
         boolean autenticacao = g1.autentica(640);
-
         System.out.println("Senha " + autenticacao);
 
         //funciona pois o atributo é filho da classe funcionário

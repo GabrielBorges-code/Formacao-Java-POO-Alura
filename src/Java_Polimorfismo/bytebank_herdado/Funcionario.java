@@ -1,6 +1,8 @@
 package Java_Polimorfismo.bytebank_herdado;
 
-//Uma classe abstrata é uma classe que serve de modelo para outras classes. Ela sempre será uma superclasse genérica, e suas subclasses serão mais específicas. Além disso, ela não pode ser instanciada e pode conter ou não métodos abstratos, podendo ser implementados nas classes descendentes.
+//Uma classe abstrata é uma classe que serve de modelo para outras classes. Ela sempre será uma superclasse genérica,
+// e suas subclasses serão mais específicas. Além disso, ela não pode ser instanciada e pode conter ou não métodos abstratos,
+// podendo ser implementados nas classes descendentes.
 public abstract class Funcionario {
 
     private String nome;
@@ -10,11 +12,9 @@ public abstract class Funcionario {
     private double salario;
 
 
-    //posso criar um método mesmo não existindo  o atributo
-    public double getBonificacao(){
-        //System.out.println("Bonificação do Funcionario");
-        return this.salario * 0.05;
-    }
+    // Isto é, um método abstrato. Ele indica que todas as classes filhas (concretas, ou seja, não abstratas)
+    // devem reescrever esse método, ou não compilarão
+    public abstract double getBonificacao();
 
     public String getNome() {
         return nome;

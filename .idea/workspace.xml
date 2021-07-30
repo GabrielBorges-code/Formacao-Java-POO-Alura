@@ -2,19 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0adbe635-a69a-4308-9095-0cee541371d3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ant.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Formacao-Java-Alura.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Formacao-Java-POO-Alura.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Formacao-Java-POO-Alura.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anotacoes.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado/EditorDeVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado/EditorDeVideo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado/TesteFuncionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado/TesteFuncionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado/TesteReferencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado/TesteReferencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado/Gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado/TesteGerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado/TesteGerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado_conta/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado_conta/Conta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado_conta/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado_conta/ContaCorrente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado_conta/ContaPoupanca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado_conta/ContaPoupanca.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -46,10 +42,16 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.TesteFuncionario">
-    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Teste" />
+  <component name="RunManager" selected="Application.TestaConta">
+    <configuration name="TestaConta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Polimorfismo.bytebank_exercicio.TestaConta" />
       <module name="Formacao-Java-POO-Alura" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_Polimorfismo.bytebank_exercicio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -67,8 +69,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteFuncionario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Polimorfismo.bytebank_herdado.TesteFuncionario" />
+    <configuration name="TesteGerente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Polimorfismo.bytebank_herdado.TesteGerente" />
+      <module name="Formacao-Java-POO-Alura" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_Polimorfismo.bytebank_herdado.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteReferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Polimorfismo.bytebank_herdado.TesteReferencia" />
+      <module name="Formacao-Java-POO-Alura" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_Polimorfismo.bytebank_herdado.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteSistema" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Polimorfismo.bytebank_herdado.TesteSistema" />
       <module name="Formacao-Java-POO-Alura" />
       <extension name="coverage">
         <pattern>
@@ -82,9 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TesteFuncionario" />
+        <item itemvalue="Application.TestaConta" />
+        <item itemvalue="Application.TesteSistema" />
+        <item itemvalue="Application.TesteGerente" />
         <item itemvalue="Application.TesteConta" />
-        <item itemvalue="Application.Teste" />
+        <item itemvalue="Application.TesteReferencia" />
       </list>
     </recent_temporary>
   </component>

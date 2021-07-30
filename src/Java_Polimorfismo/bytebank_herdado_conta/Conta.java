@@ -1,9 +1,8 @@
 package Java_Polimorfismo.bytebank_herdado_conta;
 
-public class Conta {
+public abstract class Conta {
 
-
-    private double saldo;
+    protected double saldo;
     private int agencia = 42;
     private int numero;
 
@@ -24,9 +23,7 @@ public class Conta {
 
     }
 
-    public void deposita(double valor){
-        this.saldo += valor;
-    }
+    public abstract void deposita(double valor);
 
     public double saca(double valor){
         if(this.saldo >= valor){
