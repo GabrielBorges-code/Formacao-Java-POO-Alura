@@ -3,17 +3,8 @@ package Java_Polimorfismo.bytebank_exercicio;
 public class TestaConta {
     public static void main(String[] args) {
 
-        AcaoBolsa acao = new AcaoBolsa();
-
-        acao.setLucro(500);
-        acao.calcularTributosDoValor(100);
-
-        System.out.println(acao.getLucro());
-
-        System.out.println("---------------------------");
-
         Conta conta1 = new ContaPoupanca(321, 123);
-        Conta conta2 = new ContaCorrente(654, 456);
+        ContaCorrente conta2 = new ContaCorrente(654, 456);
 
         Cliente cliente1 = new Cliente();
         Cliente cliente2 = new Cliente();
@@ -51,6 +42,20 @@ public class TestaConta {
         System.out.println("Saldo conta 1 R$ " + conta1.getSaldoConta());
         System.out.println("Saldo conta 2 R$ " + conta2.getSaldoConta());
 
+        conta2.calcularTributosDoValor(10);
+
+        System.out.println("---------------------------");
+        
+        System.out.println("Saldo conta 2 R$ " + conta2.getSaldoConta());
+
+        AcaoBolsa acao = new AcaoBolsa();
+
+        acao.setLucro(500);
+        acao.calcularTributosDoValor(100);
+
+        System.out.println(acao.getLucro());
+
+        System.out.println("---------------------------");
 
     }
 }

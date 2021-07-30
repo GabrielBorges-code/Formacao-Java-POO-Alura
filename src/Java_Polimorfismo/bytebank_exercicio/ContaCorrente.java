@@ -21,7 +21,6 @@ public class ContaCorrente extends Conta implements Tributavel{
 
     @Override
     public void calcularTributosDoValor(double valor) {
-        double imposto = valor * 0.1;
-        super.sacaDinheiro(imposto);
+        super.sacaDinheiro(valor);
     }
 }
