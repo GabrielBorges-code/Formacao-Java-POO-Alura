@@ -45,7 +45,7 @@ public class TestaConta {
         conta2.calcularTributosDoValor(10);
 
         System.out.println("---------------------------");
-        
+
         System.out.println("Saldo conta 2 R$ " + conta2.getSaldoConta());
 
         AcaoBolsa acao = new AcaoBolsa();

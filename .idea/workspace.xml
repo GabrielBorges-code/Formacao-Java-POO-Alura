@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0adbe635-a69a-4308-9095-0cee541371d3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_exercicio/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_exercicio/ContaCorrente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_exercicio/TestaConta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_exercicio/TestaConta.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +15,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -36,7 +37,20 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.TestaConta">
+  <component name="RunManager" selected="Application.Enums">
+    <configuration name="Enums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Polimorfismo.enums.Enums" />
+      <module name="Formacao-Java-POO-Alura" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_Polimorfismo.enums.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestaConta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_Polimorfismo.bytebank_exercicio.TestaConta" />
       <module name="Formacao-Java-POO-Alura" />
@@ -76,19 +90,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteReferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Polimorfismo.bytebank_herdado.TesteReferencia" />
-      <module name="Formacao-Java-POO-Alura" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_Polimorfismo.bytebank_herdado.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TesteSistema" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_Polimorfismo.bytebank_herdado.TesteSistema" />
       <module name="Formacao-Java-POO-Alura" />
@@ -104,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Enums" />
         <item itemvalue="Application.TestaConta" />
         <item itemvalue="Application.TesteSistema" />
         <item itemvalue="Application.TesteGerente" />
         <item itemvalue="Application.TesteConta" />
-        <item itemvalue="Application.TesteReferencia" />
       </list>
     </recent_temporary>
   </component>
