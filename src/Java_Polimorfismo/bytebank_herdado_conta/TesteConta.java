@@ -2,7 +2,7 @@ package Java_Polimorfismo.bytebank_herdado_conta;
 
 public class TesteConta {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws SaldoInsuficienteException{
 
         ContaCorrente contaCorrente = new ContaCorrente(054, 123);
         contaCorrente.deposita(150);
