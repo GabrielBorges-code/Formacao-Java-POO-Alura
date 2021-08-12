@@ -1,4 +1,7 @@
-package Java_Polimorfismo.bytebank_herdado_conta;
+package Java_Polimorfismo.bytebank_herdado_conta.br.com.bytebank.teste;
+
+import Java_Polimorfismo.bytebank_herdado_conta.br.com.bytebank.modelo.ContaCorrente;
+import Java_Polimorfismo.bytebank_herdado_conta.br.com.bytebank.modelo.SaldoInsuficienteException;
 
 public class TesteSaca {
     public static void main(String[] args) {

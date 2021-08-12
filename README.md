@@ -1,6 +1,6 @@
 # Formação Java e Orientação a Objetos - Alura
 
-A formação [Java e POO](https://www.alura.com.br/formacao-java) é um guia de aprendizado Java.
+A formação [Java e POO](https://www.alura.com.br/formacao-java) é um guia de aprendizado Java, possibilitou que eu aprende-se os fundamentos da linguagem Java, boas práticas e uma boa modelagem orientada a objetos
 
 ## Entender a linguagem Java e orientação a objetos
 
@@ -18,4 +18,5 @@ Curso de formação Java POO realizado no Alura cursos.
 
 ## Conhecer as principais bibliotecas
 
-A segunda etapa da formação Java OO
+Na segunda etapa da formação Java OO estou aprendendo:
+* A fazer o uso das bibliotecas do Java

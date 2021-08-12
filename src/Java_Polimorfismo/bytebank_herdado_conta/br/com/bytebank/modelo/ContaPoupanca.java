@@ -1,4 +1,4 @@
-package Java_Polimorfismo.bytebank_herdado_conta;
+package Java_Polimorfismo.bytebank_herdado_conta.br.com.bytebank.modelo;
 
 public class ContaPoupanca extends Conta{
 
