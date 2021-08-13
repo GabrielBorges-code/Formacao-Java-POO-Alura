@@ -1,6 +1,6 @@
 package Java_Polimorfismo.bytebank_herdado_conta.br.com.bytebank.modelo;
 
-public abstract class Conta {
+ public abstract class Conta {
 
     protected double saldo;
     private int agencia = 42;

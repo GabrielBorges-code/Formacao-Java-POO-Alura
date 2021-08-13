@@ -3,14 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0adbe635-a69a-4308-9095-0cee541371d3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado_conta/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado_conta/br/com/bytebank/modelo/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado_conta/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado_conta/br/com/bytebank/modelo/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado_conta/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado_conta/br/com/bytebank/modelo/ContaCorrente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado_conta/ContaPoupanca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado_conta/br/com/bytebank/modelo/ContaPoupanca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado_conta/SaldoInsuficienteException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado_conta/br/com/bytebank/modelo/SaldoInsuficienteException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado_conta/TesteConta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado_conta/br/com/bytebank/teste/TesteConta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado_conta/TesteSaca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado_conta/br/com/bytebank/teste/TesteSaca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado_conta/br/com/bytebank/modelo/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado_conta/br/com/bytebank/modelo/Conta.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,22 +59,9 @@
       <recent name="Java_Excecoes.Java_pilha" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TesteConexao">
+  <component name="RunManager" selected="Application.TesteEspecial">
     <configuration name="FluxoComError" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_Excecoes.Java_pilha.FluxoComError" />
-      <module name="Formacao-Java-POO-Alura" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_Excecoes.Java_pilha.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Excecoes.Java_pilha.Teste" />
       <module name="Formacao-Java-POO-Alura" />
       <extension name="coverage">
         <pattern>
@@ -119,6 +99,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TesteEspecial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Polimorfismo.bytebank_herdado_conta.br.com.bytebank.teste.TesteEspecial" />
+      <module name="Formacao-Java-POO-Alura" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_Polimorfismo.bytebank_herdado_conta.br.com.bytebank.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TesteSaca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_Polimorfismo.bytebank_herdado_conta.br.com.bytebank.teste.TesteSaca" />
       <module name="Formacao-Java-POO-Alura" />
@@ -134,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TesteConexao" />
+        <item itemvalue="Application.TesteEspecial" />
         <item itemvalue="Application.TesteSaca" />
+        <item itemvalue="Application.TesteConexao" />
         <item itemvalue="Application.TesteConta" />
         <item itemvalue="Application.FluxoComError" />
-        <item itemvalue="Application.Teste" />
       </list>
     </recent_temporary>
   </component>
