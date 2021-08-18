@@ -1,5 +1,12 @@
 package Java_Polimorfismo.bytebank_herdado_conta.br.com.bytebank.modelo;
 
+/**
+ *Classe que representa um valor
+ *
+ * @Author Gabriel
+ * @version 1.0
+ *
+ */
 public class Cliente {
 
     private String nome;
