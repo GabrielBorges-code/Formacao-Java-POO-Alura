@@ -19,4 +19,5 @@ Curso de formação Java POO realizado no Alura cursos.
 ## Conhecer as principais bibliotecas
 
 Na segunda etapa da formação Java OO estou aprendendo:
-* A fazer o uso das bibliotecas do Java
+* Fazer o uso das bibliotecas do Java
+* Modificador de acessos

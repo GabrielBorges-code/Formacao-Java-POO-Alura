@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0adbe635-a69a-4308-9095-0cee541371d3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Excecoes/Java_pilha/Fluxo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Excecoes/Java_pilha/Fluxo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado_conta/br/com/bytebank/modelo/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Polimorfismo/bytebank_herdado_conta/br/com/bytebank/modelo/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +48,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Java_Polimorfismo/anotacoes" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.460733" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
@@ -65,7 +62,20 @@
       <recent name="Java_Excecoes.Java_pilha" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Teste">
+  <component name="RunManager" selected="Application.Teste (1)">
+    <configuration name="Teste (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_E_Java_lang.Teste" />
+      <module name="Formacao-Java-POO-Alura" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_E_Java_lang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_Excecoes.Java_pilha.Teste" />
       <module name="Formacao-Java-POO-Alura" />
@@ -85,19 +95,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Java_Excecoes.Conexao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TesteConta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Polimorfismo.bytebank_herdado_conta.br.com.bytebank.teste.TesteConta" />
-      <module name="Formacao-Java-POO-Alura" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_Polimorfismo.bytebank_herdado_conta.br.com.bytebank.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Teste (1)" />
         <item itemvalue="Application.Teste" />
         <item itemvalue="Application.TesteConexao" />
         <item itemvalue="Application.TesteEspecial" />
         <item itemvalue="Application.TesteSaca" />
-        <item itemvalue="Application.TesteConta" />
       </list>
     </recent_temporary>
   </component>
