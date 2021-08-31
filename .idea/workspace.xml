@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0adbe635-a69a-4308-9095-0cee541371d3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Util/TesteArrayPrimitivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Util/TesteArrayPrimitivo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,7 @@
       <recent name="Java_Excecoes.Java_pilha" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TesteArrayPrimitivo">
+  <component name="RunManager" selected="Application.Teste">
     <configuration name="ArrayString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_Util.ArrayString" />
       <module name="Formacao-Java-POO-Alura" />
@@ -77,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Teste (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_E_Java_lang.Teste" />
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Util.Teste" />
       <module name="Formacao-Java-POO-Alura" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_E_Java_lang.*" />
+          <option name="PATTERN" value="Java_Util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,18 +130,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.ArrayString" />
-      <item itemvalue="Application.Teste (1)" />
       <item itemvalue="Application.TesteArrayPrimitivo" />
       <item itemvalue="Application.TesteArrayReferencia" />
       <item itemvalue="Application.TesteCast" />
+      <item itemvalue="Application.Teste" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Teste" />
         <item itemvalue="Application.TesteArrayPrimitivo" />
         <item itemvalue="Application.ArrayString" />
         <item itemvalue="Application.TesteCast" />
         <item itemvalue="Application.TesteArrayReferencia" />
-        <item itemvalue="Application.Teste (1)" />
       </list>
     </recent_temporary>
   </component>
