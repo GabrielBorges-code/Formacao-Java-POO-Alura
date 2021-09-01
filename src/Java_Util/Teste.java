@@ -14,7 +14,7 @@ public class Teste {
 
         Conta cc_2 = new ContaCorrente(11, 22);
         guardadosDeContas.adiciona(cc_2);
-                
+
         int tamanho = guardadosDeContas.getQuatidadeDeElementos();
 
         System.out.println(tamanho);
@@ -23,9 +23,6 @@ public class Teste {
         Conta ref_2 = guardadosDeContas.getReferencia(1);
 
         System.out.println(ref.getAgencia() + "\n" + ref_2);
-
-
-        //9) (Desafio) Agora experimente criar um guardador que saiba guardar qualquer tipo de referências, usando a classe Object
 
     }
 }

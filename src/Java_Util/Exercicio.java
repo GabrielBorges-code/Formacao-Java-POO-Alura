@@ -8,6 +8,9 @@ public class Exercicio {
 
     public static void main (String [] args) {
 
+        //9) (Desafio) Agora experimente criar um guardador que saiba guardar qualquer tipo de referências, usando a classe Object
+        //Resolvido sozinho por mim
+
         System.out.println("Guardando qualquer tipo de objeto");
         GuardaQualquerTIpo guardarInfo = new GuardaQualquerTIpo();
 

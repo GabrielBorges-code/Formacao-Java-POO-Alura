@@ -11,15 +11,15 @@ package Java_Polimorfismo.bytebank_herdado_conta.br.com.bytebank.modelo;
     private static int totalDeObj;
 
     public Conta(int agencia, int numero) {
-        System.out.println("----------------------------------------------------------------");
+        //System.out.println("----------------------------------------------------------------");
         totalDeObj++;
 
         this.saldo = 0;
         this.agencia = agencia;
         this.numero = numero;
-        System.out.println("Conta Crida");
-        System.out.println("Agência Nº " + this.agencia + " Conta Nº " + this.numero);
-        System.out.println("----------------------------------------------------------------");
+        //System.out.println("Conta Crida");
+        //System.out.println("Agência Nº " + this.agencia + " Conta Nº " + this.numero);
+        //System.out.println("----------------------------------------------------------------");
 
     }
 
@@ -86,4 +86,23 @@ package Java_Polimorfismo.bytebank_herdado_conta.br.com.bytebank.modelo;
     public static int getTotalDeObj(){
         return Conta.totalDeObj;
     }
-}
+
+    @Override
+    public boolean equals(Object ref) {
+        Conta outraConta = (Conta) ref;
+
+        if(this.agencia != outraConta.agencia) {
+            return false;
+        }
+        if(this.numero != outraConta.numero) {
+            return false;
+        }
+
+        return true;
+     }
+
+     @Override
+     public String toString(){
+        return "Numero: " + this.numero + " Agência: " + this.agencia;
+     }
+ }
