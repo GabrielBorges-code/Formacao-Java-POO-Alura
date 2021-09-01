@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0adbe635-a69a-4308-9095-0cee541371d3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_Util/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Util/Teste.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,9 +63,22 @@
       <recent name="Java_Excecoes.Java_pilha" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Teste">
+  <component name="RunManager" selected="Application.Exercicio">
     <configuration name="ArrayString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_Util.ArrayString" />
+      <module name="Formacao-Java-POO-Alura" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_Util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Util.Exercicio" />
       <module name="Formacao-Java-POO-Alura" />
       <extension name="coverage">
         <pattern>
@@ -102,19 +116,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteArrayReferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Util.TesteArrayReferencia" />
-      <module name="Formacao-Java-POO-Alura" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_Util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TesteCast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_Util.TesteCast" />
       <module name="Formacao-Java-POO-Alura" />
@@ -131,17 +132,17 @@
     <list>
       <item itemvalue="Application.ArrayString" />
       <item itemvalue="Application.TesteArrayPrimitivo" />
-      <item itemvalue="Application.TesteArrayReferencia" />
       <item itemvalue="Application.TesteCast" />
       <item itemvalue="Application.Teste" />
+      <item itemvalue="Application.Exercicio" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio" />
         <item itemvalue="Application.Teste" />
         <item itemvalue="Application.TesteArrayPrimitivo" />
         <item itemvalue="Application.ArrayString" />
         <item itemvalue="Application.TesteCast" />
-        <item itemvalue="Application.TesteArrayReferencia" />
       </list>
     </recent_temporary>
   </component>
