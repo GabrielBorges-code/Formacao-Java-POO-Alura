@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 
-public class Teste {
+public class TesteLambdas {
 
     public static void main(String[] args) {
 
@@ -60,6 +60,8 @@ public class Teste {
 
             return nomeC1.compareTo(nomeC2);
         };
+
+        lista.sort(camp);
 
         lista.forEach((Conta contasArray) -> {
             System.out.println(contasArray + ", " + contasArray.getTitular().getNome());
