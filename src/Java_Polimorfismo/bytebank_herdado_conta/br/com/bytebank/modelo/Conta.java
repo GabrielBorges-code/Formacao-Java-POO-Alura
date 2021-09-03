@@ -1,6 +1,6 @@
 package Java_Polimorfismo.bytebank_herdado_conta.br.com.bytebank.modelo;
 
- public abstract class Conta {
+ public abstract class Conta extends Object implements  Comparable<Conta> {
 
     protected double saldo;
     private int agencia = 42;
@@ -102,7 +102,13 @@ package Java_Polimorfismo.bytebank_herdado_conta.br.com.bytebank.modelo;
      }
 
      @Override
+     public int compareTo(Conta outra) {
+
+        return Double.compare(this.saldo, outra.saldo);
+     }
+
+     @Override
      public String toString(){
-        return "Numero: " + this.numero + " Agência: " + this.agencia;
+        return "Numero: " + this.numero + " Agência: " + this.agencia + " Saldo R$ " + this.saldo;
      }
  }
