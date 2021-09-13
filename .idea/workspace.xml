@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0adbe635-a69a-4308-9095-0cee541371d3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,18 +59,19 @@
       <recent name="C:\Users\gabri\IdeaProjects\Formacao-Java-POO-Alura\src\Java_Polimorfismo\anotacoes" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Java_IO.br.com.alura.java.io" />
       <recent name="Java_Util.ArrayList" />
       <recent name="Java_Util" />
       <recent name="Java_Excecoes.Java_pilha" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TesteLeitura">
-    <configuration name="AtividadeLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Util.ArrayList.AtividadeLambda" />
+  <component name="RunManager" selected="Application.TesteEscritaTeclado">
+    <configuration name="TesteCopia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_IO.br.com.alura.java.io.TesteCopia" />
       <module name="Formacao-Java-POO-Alura" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Util.ArrayList.*" />
+          <option name="PATTERN" value="Java_IO.br.com.alura.java.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteClasseAnonima" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Util.ArrayList.TesteClasseAnonima" />
+    <configuration name="TesteEscrita" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_IO.br.com.alura.java.io.TesteEscrita" />
       <module name="Formacao-Java-POO-Alura" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Util.ArrayList.*" />
+          <option name="PATTERN" value="Java_IO.br.com.alura.java.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +92,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteLambdas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Util.ArrayList.TesteLambdas" />
+    <configuration name="TesteEscritaLeitura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_IO.br.com.alura.java.io.TesteEscritaLeitura" />
       <module name="Formacao-Java-POO-Alura" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Util.ArrayList.*" />
+          <option name="PATTERN" value="Java_IO.br.com.alura.java.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteEscritaTeclado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_IO.br.com.alura.java.io.TesteEscritaTeclado" />
+      <module name="Formacao-Java-POO-Alura" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_IO.br.com.alura.java.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,33 +131,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteSortArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Util.ArrayList.TesteSortArrays" />
-      <module name="Formacao-Java-POO-Alura" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_Util.ArrayList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.TesteSortArrays" />
-      <item itemvalue="Application.TesteClasseAnonima" />
-      <item itemvalue="Application.TesteLambdas" />
-      <item itemvalue="Application.AtividadeLambda" />
       <item itemvalue="Application.TesteLeitura" />
+      <item itemvalue="Application.TesteEscrita" />
+      <item itemvalue="Application.TesteEscritaLeitura" />
+      <item itemvalue="Application.TesteCopia" />
+      <item itemvalue="Application.TesteEscritaTeclado" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesteEscritaTeclado" />
+        <item itemvalue="Application.TesteCopia" />
+        <item itemvalue="Application.TesteEscritaLeitura" />
         <item itemvalue="Application.TesteLeitura" />
-        <item itemvalue="Application.AtividadeLambda" />
-        <item itemvalue="Application.TesteLambdas" />
-        <item itemvalue="Application.TesteClasseAnonima" />
-        <item itemvalue="Application.TesteSortArrays" />
+        <item itemvalue="Application.TesteEscrita" />
       </list>
     </recent_temporary>
   </component>
