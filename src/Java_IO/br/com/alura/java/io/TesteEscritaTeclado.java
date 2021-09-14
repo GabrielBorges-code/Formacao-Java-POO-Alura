@@ -10,7 +10,7 @@ public class TesteEscritaTeclado {
         String caminhoDoArquivo = "src\\Java_IO\\lorem_3.txt";
         String caminhoDoArquivoCopia = "src\\Java_IO\\lorem_4.txt";
 
-        InputStream filesLeitura = System.in;
+        InputStream filesLeitura = new FileInputStream(caminhoDoArquivo);
         Reader iStramReader = new InputStreamReader(filesLeitura);
         BufferedReader bReader = new BufferedReader(iStramReader);
 
@@ -20,12 +20,13 @@ public class TesteEscritaTeclado {
 
         String row = bReader.readLine();
 
-        bWriter.write("Arquivo copiado");
+        //bWriter.write("Arquivo Escrito com teclado");
         bWriter.newLine();
 
-        while (row != null){
+        while (row != null && !row.isEmpty()){
             bWriter.write(row);
             bWriter.newLine();
+            bWriter.flush();
             row = bReader.readLine();
         }
 

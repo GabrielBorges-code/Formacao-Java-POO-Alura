@@ -1,0 +1,3 @@
+Escrevendo o texto com File Write 
+outra linha
+Essa é uma outra linha uttilizando o System.lineSeparator()

@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0adbe635-a69a-4308-9095-0cee541371d3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_IO/br/com/alura/java/io/TesteEscritaTeclado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_IO/br/com/alura/java/io/TesteEscritaTeclado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_IO/lorem_4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_IO/lorem_4.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +67,7 @@
       <recent name="Java_Excecoes.Java_pilha" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TesteEscritaTeclado">
+  <component name="RunManager" selected="Application.TesteDeTempo">
     <configuration name="TesteCopia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_IO.br.com.alura.java.io.TesteCopia" />
       <module name="Formacao-Java-POO-Alura" />
@@ -79,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteEscrita" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_IO.br.com.alura.java.io.TesteEscrita" />
+    <configuration name="TesteDeTempo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_IO.br.com.alura.java.io.TesteDeTempo" />
       <module name="Formacao-Java-POO-Alura" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +94,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteEscritaLeitura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_IO.br.com.alura.java.io.TesteEscritaLeitura" />
+    <configuration name="TesteEscritaFileWrite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_IO.br.com.alura.java.io.TesteEscritaFileWrite" />
+      <module name="Formacao-Java-POO-Alura" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_IO.br.com.alura.java.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteEscritaPrintStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_IO.br.com.alura.java.io.TesteEscritaPrintStream" />
       <module name="Formacao-Java-POO-Alura" />
       <extension name="coverage">
         <pattern>
@@ -118,33 +133,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteLeitura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_IO.br.com.alura.java.io.TesteLeitura" />
-      <module name="Formacao-Java-POO-Alura" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_IO.br.com.alura.java.io.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.TesteLeitura" />
-      <item itemvalue="Application.TesteEscrita" />
-      <item itemvalue="Application.TesteEscritaLeitura" />
       <item itemvalue="Application.TesteCopia" />
       <item itemvalue="Application.TesteEscritaTeclado" />
+      <item itemvalue="Application.TesteEscritaFileWrite" />
+      <item itemvalue="Application.TesteEscritaPrintStream" />
+      <item itemvalue="Application.TesteDeTempo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesteDeTempo" />
+        <item itemvalue="Application.TesteEscritaPrintStream" />
+        <item itemvalue="Application.TesteEscritaFileWrite" />
         <item itemvalue="Application.TesteEscritaTeclado" />
         <item itemvalue="Application.TesteCopia" />
-        <item itemvalue="Application.TesteEscritaLeitura" />
-        <item itemvalue="Application.TesteLeitura" />
-        <item itemvalue="Application.TesteEscrita" />
       </list>
     </recent_temporary>
   </component>
