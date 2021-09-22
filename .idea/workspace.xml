@@ -60,19 +60,20 @@
       <recent name="C:\Users\gabri\IdeaProjects\Formacao-Java-POO-Alura\src\Java_Polimorfismo\anotacoes" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Atividades_Apostila.br.com.exercicios" />
       <recent name="Java_IO.br.com.alura.java.io" />
       <recent name="Java_Util.ArrayList" />
       <recent name="Java_Util" />
       <recent name="Java_Excecoes.Java_pilha" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TesteSerializacaoCliente">
-    <configuration name="TesteDeTempo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_IO.br.com.alura.java.io.TesteDeTempo" />
+  <component name="RunManager" selected="Application.Variaveis">
+    <configuration name="CalculoDeGastos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividades_Apostila.br.com.exercicios.CalculoDeGastos" />
       <module name="Formacao-Java-POO-Alura" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_IO.br.com.alura.java.io.*" />
+          <option name="PATTERN" value="Atividades_Apostila.br.com.exercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteLeituraCSV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_IO.br.com.alura.java.io.TesteLeituraCSV" />
+    <configuration name="PrimeiroPrograma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividades_Apostila.br.com.exercicios.PrimeiroPrograma" />
       <module name="Formacao-Java-POO-Alura" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_IO.br.com.alura.java.io.*" />
+          <option name="PATTERN" value="Atividades_Apostila.br.com.exercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnicodeEEncoding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_IO.br.com.alura.java.io.UnicodeEEncoding" />
+    <configuration name="Variaveis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividades_Apostila.br.com.exercicios.Variaveis" />
       <module name="Formacao-Java-POO-Alura" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_IO.br.com.alura.java.io.*" />
+          <option name="PATTERN" value="Atividades_Apostila.br.com.exercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,19 +134,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TesteDeTempo" />
-      <item itemvalue="Application.TesteLeituraCSV" />
-      <item itemvalue="Application.UnicodeEEncoding" />
       <item itemvalue="Application.TesteSerializacao" />
       <item itemvalue="Application.TesteSerializacaoCliente" />
+      <item itemvalue="Application.PrimeiroPrograma" />
+      <item itemvalue="Application.Variaveis" />
+      <item itemvalue="Application.CalculoDeGastos" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Variaveis" />
+        <item itemvalue="Application.CalculoDeGastos" />
+        <item itemvalue="Application.PrimeiroPrograma" />
         <item itemvalue="Application.TesteSerializacaoCliente" />
         <item itemvalue="Application.TesteSerializacao" />
-        <item itemvalue="Application.UnicodeEEncoding" />
-        <item itemvalue="Application.TesteLeituraCSV" />
-        <item itemvalue="Application.TesteDeTempo" />
       </list>
     </recent_temporary>
   </component>
