@@ -67,7 +67,7 @@
       <recent name="Java_Excecoes.Java_pilha" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Variaveis">
+  <component name="RunManager" selected="Application.TestaListaDeAula">
     <configuration name="CalculoDeGastos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Atividades_Apostila.br.com.exercicios.CalculoDeGastos" />
       <module name="Formacao-Java-POO-Alura" />
@@ -94,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteSerializacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_IO.br.com.alura.java.io.TesteSerializacao" />
+    <configuration name="TestaListaDeAula" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Collection.Gerenciador_de_Curso.TestaListaDeAula" />
       <module name="Formacao-Java-POO-Alura" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_IO.br.com.alura.java.io.*" />
+          <option name="PATTERN" value="Java_Collection.Gerenciador_de_Curso.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteSerializacaoCliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_IO.br.com.alura.java.io.TesteSerializacaoCliente" />
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Collection.Gerenciador_de_Curso.Teste" />
       <module name="Formacao-Java-POO-Alura" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_IO.br.com.alura.java.io.*" />
+          <option name="PATTERN" value="Java_Collection.Gerenciador_de_Curso.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,19 +134,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TesteSerializacao" />
-      <item itemvalue="Application.TesteSerializacaoCliente" />
       <item itemvalue="Application.PrimeiroPrograma" />
       <item itemvalue="Application.Variaveis" />
       <item itemvalue="Application.CalculoDeGastos" />
+      <item itemvalue="Application.Teste" />
+      <item itemvalue="Application.TestaListaDeAula" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestaListaDeAula" />
+        <item itemvalue="Application.Teste" />
         <item itemvalue="Application.Variaveis" />
         <item itemvalue="Application.CalculoDeGastos" />
         <item itemvalue="Application.PrimeiroPrograma" />
-        <item itemvalue="Application.TesteSerializacaoCliente" />
-        <item itemvalue="Application.TesteSerializacao" />
       </list>
     </recent_temporary>
   </component>
