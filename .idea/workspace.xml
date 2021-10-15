@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0adbe635-a69a-4308-9095-0cee541371d3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Collection/Gerenciador_de_Curso/Aula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Collection/Gerenciador_de_Curso/Aula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_Collection/Gerenciador_de_Curso/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Collection/Gerenciador_de_Curso/Curso.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,20 +61,20 @@
       <recent name="C:\Users\gabri\IdeaProjects\Formacao-Java-POO-Alura\src\Java_Polimorfismo\anotacoes" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Java_Collection.Gerenciador_de_Curso" />
       <recent name="Atividades_Apostila.br.com.exercicios" />
       <recent name="Java_IO.br.com.alura.java.io" />
       <recent name="Java_Util.ArrayList" />
       <recent name="Java_Util" />
-      <recent name="Java_Excecoes.Java_pilha" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestaCurso">
-    <configuration name="CalculoDeGastos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Atividades_Apostila.br.com.exercicios.CalculoDeGastos" />
+  <component name="RunManager" selected="Application.TestaCurso2">
+    <configuration name="TestaCurso" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Collection.Gerenciador_de_Curso.TestaCurso" />
       <module name="Formacao-Java-POO-Alura" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Atividades_Apostila.br.com.exercicios.*" />
+          <option name="PATTERN" value="Java_Collection.Gerenciador_de_Curso.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestaCurso" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Collection.Gerenciador_de_Curso.TestaCurso" />
+    <configuration name="TestaCurso2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Collection.Gerenciador_de_Curso.TestaCurso2" />
       <module name="Formacao-Java-POO-Alura" />
       <extension name="coverage">
         <pattern>
@@ -136,18 +136,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Variaveis" />
-      <item itemvalue="Application.CalculoDeGastos" />
       <item itemvalue="Application.Teste" />
       <item itemvalue="Application.TestaListaDeAula" />
       <item itemvalue="Application.TestaCurso" />
+      <item itemvalue="Application.TestaCurso2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestaCurso2" />
         <item itemvalue="Application.TestaCurso" />
         <item itemvalue="Application.TestaListaDeAula" />
         <item itemvalue="Application.Teste" />
         <item itemvalue="Application.Variaveis" />
-        <item itemvalue="Application.CalculoDeGastos" />
       </list>
     </recent_temporary>
   </component>
@@ -184,6 +184,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArithmeticException" package="java.lang" />
           <option name="timeStamp" value="6" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.UnsupportedOperationException" package="java.lang" />
+          <option name="timeStamp" value="7" />
         </breakpoint>
       </breakpoints>
       <default-breakpoints>
