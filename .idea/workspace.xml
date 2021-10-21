@@ -68,7 +68,20 @@
       <recent name="Java_Util" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestaCurso2">
+  <component name="RunManager" selected="Application.TestaCursoComAluno">
+    <configuration name="TestaAluno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Collection.Gerenciador_de_Curso.TestaAluno" />
+      <module name="Formacao-Java-POO-Alura" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_Collection.Gerenciador_de_Curso.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestaCurso" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_Collection.Gerenciador_de_Curso.TestaCurso" />
       <module name="Formacao-Java-POO-Alura" />
@@ -95,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestaListaDeAula" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Collection.Gerenciador_de_Curso.TestaListaDeAula" />
+    <configuration name="TestaCursoComAluno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Collection.Gerenciador_de_Curso.TestaCursoComAluno" />
       <module name="Formacao-Java-POO-Alura" />
       <extension name="coverage">
         <pattern>
@@ -108,25 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Collection.Gerenciador_de_Curso.Teste" />
+    <configuration name="TestaPerformace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Collection.Gerenciador_de_Curso.TestaPerformace" />
       <module name="Formacao-Java-POO-Alura" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Java_Collection.Gerenciador_de_Curso.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Variaveis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Atividades_Apostila.br.com.exercicios.Variaveis" />
-      <module name="Formacao-Java-POO-Alura" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Atividades_Apostila.br.com.exercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,19 +135,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Variaveis" />
-      <item itemvalue="Application.Teste" />
-      <item itemvalue="Application.TestaListaDeAula" />
       <item itemvalue="Application.TestaCurso" />
       <item itemvalue="Application.TestaCurso2" />
+      <item itemvalue="Application.TestaAluno" />
+      <item itemvalue="Application.TestaPerformace" />
+      <item itemvalue="Application.TestaCursoComAluno" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestaCursoComAluno" />
+        <item itemvalue="Application.TestaPerformace" />
+        <item itemvalue="Application.TestaAluno" />
         <item itemvalue="Application.TestaCurso2" />
         <item itemvalue="Application.TestaCurso" />
-        <item itemvalue="Application.TestaListaDeAula" />
-        <item itemvalue="Application.Teste" />
-        <item itemvalue="Application.Variaveis" />
       </list>
     </recent_temporary>
   </component>
