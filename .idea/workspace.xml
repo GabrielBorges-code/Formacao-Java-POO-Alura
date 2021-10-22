@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0adbe635-a69a-4308-9095-0cee541371d3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Collection/Gerenciador_de_Curso/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Collection/Gerenciador_de_Curso/Curso.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +67,7 @@
       <recent name="Java_Util" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExercicioMap">
+  <component name="RunManager" selected="Application.OrdenaStrings">
     <configuration name="ExercicioMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_Collection.Gerenciador_de_Curso.ExercicioMap" />
       <module name="Formacao-Java-POO-Alura" />
@@ -88,6 +87,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Java_Collection.Gerenciador_de_Curso.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrdenaStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Moderno_v8.com.java8.OrdenaStrings" />
+      <module name="Formacao-Java-POO-Alura" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_Moderno_v8.com.java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,33 +133,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestaPerformace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Collection.Gerenciador_de_Curso.TestaPerformace" />
-      <module name="Formacao-Java-POO-Alura" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_Collection.Gerenciador_de_Curso.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.TestaPerformace" />
       <item itemvalue="Application.TestaCursoComAluno" />
       <item itemvalue="Application.ModaAntiga" />
       <item itemvalue="Application.TestaBuscaAlunosNoCurso" />
       <item itemvalue="Application.ExercicioMap" />
+      <item itemvalue="Application.OrdenaStrings" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OrdenaStrings" />
         <item itemvalue="Application.ExercicioMap" />
         <item itemvalue="Application.TestaBuscaAlunosNoCurso" />
         <item itemvalue="Application.ModaAntiga" />
         <item itemvalue="Application.TestaCursoComAluno" />
-        <item itemvalue="Application.TestaPerformace" />
       </list>
     </recent_temporary>
   </component>
