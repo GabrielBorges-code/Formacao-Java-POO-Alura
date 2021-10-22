@@ -68,9 +68,9 @@
       <recent name="Java_Util" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestaCursoComAluno">
-    <configuration name="TestaAluno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Collection.Gerenciador_de_Curso.TestaAluno" />
+  <component name="RunManager" selected="Application.ExercicioMap">
+    <configuration name="ExercicioMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Collection.Gerenciador_de_Curso.ExercicioMap" />
       <module name="Formacao-Java-POO-Alura" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestaCurso" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Collection.Gerenciador_de_Curso.TestaCurso" />
+    <configuration name="ModaAntiga" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Collection.Gerenciador_de_Curso.ModaAntiga" />
       <module name="Formacao-Java-POO-Alura" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestaCurso2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Collection.Gerenciador_de_Curso.TestaCurso2" />
+    <configuration name="TestaBuscaAlunosNoCurso" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Collection.Gerenciador_de_Curso.TestaBuscaAlunosNoCurso" />
       <module name="Formacao-Java-POO-Alura" />
       <extension name="coverage">
         <pattern>
@@ -135,19 +135,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestaCurso" />
-      <item itemvalue="Application.TestaCurso2" />
-      <item itemvalue="Application.TestaAluno" />
       <item itemvalue="Application.TestaPerformace" />
       <item itemvalue="Application.TestaCursoComAluno" />
+      <item itemvalue="Application.ModaAntiga" />
+      <item itemvalue="Application.TestaBuscaAlunosNoCurso" />
+      <item itemvalue="Application.ExercicioMap" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExercicioMap" />
+        <item itemvalue="Application.TestaBuscaAlunosNoCurso" />
+        <item itemvalue="Application.ModaAntiga" />
         <item itemvalue="Application.TestaCursoComAluno" />
         <item itemvalue="Application.TestaPerformace" />
-        <item itemvalue="Application.TestaAluno" />
-        <item itemvalue="Application.TestaCurso2" />
-        <item itemvalue="Application.TestaCurso" />
       </list>
     </recent_temporary>
   </component>
