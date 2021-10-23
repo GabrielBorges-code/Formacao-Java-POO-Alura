@@ -18,9 +18,16 @@ Curso de formação Java POO realizado no Alura cursos.
 
 ## 👨‍💻 Conhecer as principais bibliotecas
 
-Na segunda etapa da formação Java OO estou aprendendo:
+Na segunda etapa da formação Java OO eu aprendi:
 
 * Fazer o uso das bibliotecas do Java dos pacotes Util, Lang e IO
 * Modificadores de acessos private, protected e public
 * Utilização de Collections, Wrappers class e Lambda expressions
 * Leitura, escrita e criação de arquivos externos 
+
+## 👨‍💻 Aprofundar em Java moderno e TDD
+
+Na segunda etapa da formação Java OO eu estou aprendendo:
+
+* Recursos do Java 8 como Collection, Lambdas, Strem e API de Datas
+* Teste automatizado em aplicações com JUnit  

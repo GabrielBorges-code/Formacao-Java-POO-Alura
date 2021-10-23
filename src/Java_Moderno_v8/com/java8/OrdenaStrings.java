@@ -52,9 +52,6 @@ public class OrdenaStrings {
 
         palavras.forEach(p -> System.out.println(p));
 
-
-
-
     }
 
 }
