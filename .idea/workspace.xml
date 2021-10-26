@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0adbe635-a69a-4308-9095-0cee541371d3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Moderno_v8/com/java8/OrdenaStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Moderno_v8/com/java8/OrdenaStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formacao-Java-POO-Alura.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Formacao-Java-POO-Alura.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +43,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -60,6 +64,10 @@
       <recent name="C:\Users\gabri\IdeaProjects\Formacao-Java-POO-Alura\src\Java_Util\ArrayList" />
       <recent name="C:\Users\gabri\IdeaProjects\Formacao-Java-POO-Alura\src\Java_Polimorfismo\anotacoes" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gabri\IdeaProjects\Formacao-Java-POO-Alura\src\Teste_Automatizado_JUnit\java-testes-unitarios-tdd-projeto_inicial" />
+      <recent name="C:\Users\gabri\IdeaProjects\Formacao-Java-POO-Alura\src\Teste_Automatizado_JUnit" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Java_Collection.Gerenciador_de_Curso" />
       <recent name="Atividades_Apostila.br.com.exercicios" />
@@ -68,7 +76,7 @@
       <recent name="Java_Util" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Data">
+  <component name="RunManager" selected="JUnit.CalculadoraTest.deveriaSomarDoisNumerosPositivos">
     <configuration name="Data" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_Moderno_v8.com.java8.Data" />
       <module name="Formacao-Java-POO-Alura" />
@@ -95,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExercicioMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Collection.Gerenciador_de_Curso.ExercicioMap" />
+    <configuration name="Somar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Teste_Automatizado_JUnit.calculadora.Somar" />
       <module name="Formacao-Java-POO-Alura" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Collection.Gerenciador_de_Curso.*" />
+          <option name="PATTERN" value="Teste_Automatizado_JUnit.calculadora.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,46 +116,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrdenaStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Moderno_v8.com.java8.OrdenaStrings" />
+    <configuration name="CalculadoraTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Formacao-Java-POO-Alura" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Moderno_v8.com.java8.*" />
+          <option name="PATTERN" value="Teste_Automatizado_JUnit.calculadora.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Teste_Automatizado_JUnit.calculadora" />
+      <option name="MAIN_CLASS_NAME" value="Teste_Automatizado_JUnit.calculadora.CalculadoraTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestaBuscaAlunosNoCurso" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Collection.Gerenciador_de_Curso.TestaBuscaAlunosNoCurso" />
+    <configuration name="CalculadoraTest.deveriaSomarDoisNumerosPositivos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Formacao-Java-POO-Alura" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Collection.Gerenciador_de_Curso.*" />
+          <option name="PATTERN" value="Teste_Automatizado_JUnit.calculadora.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Teste_Automatizado_JUnit.calculadora" />
+      <option name="MAIN_CLASS_NAME" value="Teste_Automatizado_JUnit.calculadora.CalculadoraTest" />
+      <option name="METHOD_NAME" value="deveriaSomarDoisNumerosPositivos" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestaBuscaAlunosNoCurso" />
-      <item itemvalue="Application.ExercicioMap" />
-      <item itemvalue="Application.OrdenaStrings" />
       <item itemvalue="Application.ExemploCurso" />
       <item itemvalue="Application.Data" />
+      <item itemvalue="Application.Somar" />
+      <item itemvalue="JUnit.CalculadoraTest" />
+      <item itemvalue="JUnit.CalculadoraTest.deveriaSomarDoisNumerosPositivos" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CalculadoraTest.deveriaSomarDoisNumerosPositivos" />
+        <item itemvalue="JUnit.CalculadoraTest" />
+        <item itemvalue="Application.Somar" />
         <item itemvalue="Application.Data" />
         <item itemvalue="Application.ExemploCurso" />
-        <item itemvalue="Application.OrdenaStrings" />
-        <item itemvalue="Application.ExercicioMap" />
-        <item itemvalue="Application.TestaBuscaAlunosNoCurso" />
       </list>
     </recent_temporary>
   </component>
