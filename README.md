@@ -27,7 +27,7 @@ Na segunda etapa da formação Java OO eu aprendi:
 
 ## 👨‍💻 Aprofundar em Java moderno e TDD
 
-Na segunda etapa da formação Java OO eu estou aprendendo:
+Na terceira etapa da formação Java OO eu aprendi:
 
 * Recursos do Java 8 como Collection, Lambdas, Strem e API de Datas
 * Teste automatizado em aplicações com JUnit  
