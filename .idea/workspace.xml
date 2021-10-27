@@ -3,7 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="0adbe635-a69a-4308-9095-0cee541371d3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Formacao-Java-POO-Alura.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Formacao-Java-POO-Alura.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Teste_Automatizado_JUnit/java-testes-unitarios-tdd-projeto_inicial/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Teste_Automatizado_JUnit/java-testes-unitarios-tdd-projeto_inicial/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Teste_Automatizado_JUnit/java-testes-unitarios-tdd-projeto_inicial/src/main/java/br/com/alura/tdd/modelo/Funcionario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Teste_Automatizado_JUnit/java-testes-unitarios-tdd-projeto_inicial/src/main/java/br/com/alura/tdd/service/BonusService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Teste_Automatizado_JUnit/java-testes-unitarios-tdd-projeto_inicial/src/main/resources/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Teste_Automatizado_JUnit/java-testes-unitarios-tdd-projeto_inicial/src/test/java/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Teste_Automatizado_JUnit/java-testes-unitarios-tdd-projeto_inicial/src/test/resources/.gitkeep" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +56,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Teste_Automatizado_JUnit" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.460733" />
@@ -65,8 +71,8 @@
       <recent name="C:\Users\gabri\IdeaProjects\Formacao-Java-POO-Alura\src\Java_Polimorfismo\anotacoes" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\gabri\IdeaProjects\Formacao-Java-POO-Alura\src\Teste_Automatizado_JUnit\java-testes-unitarios-tdd-projeto_inicial" />
       <recent name="C:\Users\gabri\IdeaProjects\Formacao-Java-POO-Alura\src\Teste_Automatizado_JUnit" />
+      <recent name="C:\Users\gabri\IdeaProjects\Formacao-Java-POO-Alura\src\Teste_Automatizado_JUnit\java-testes-unitarios-tdd-projeto_inicial" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Java_Collection.Gerenciador_de_Curso" />
